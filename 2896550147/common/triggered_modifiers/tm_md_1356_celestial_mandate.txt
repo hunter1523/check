@@ -1,0 +1,8 @@
+tm_md_1356_celestial_mandate = {
+	potential = {
+		current_age = age_of_feudalism
+		is_emperor_of_china = yes 
+	}
+	trigger = {}
+	imperial_mandate = 0.05
+}

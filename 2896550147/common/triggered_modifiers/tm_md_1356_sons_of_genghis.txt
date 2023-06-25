@@ -1,0 +1,16 @@
+tm_md_1356_sons_of_genghis = {
+	potential = {
+		current_age = age_of_feudalism
+		OR = {
+			tag = GLH
+			tag = YUA
+			tag = ILK
+			tag = JLR
+			tag = CHG
+			tag = KHA
+		}
+	}
+	trigger = {}
+	raze_power_gain = 0.1
+	cavalry_shock = 1 
+}

@@ -1,0 +1,9 @@
+tm_md_1356_timurid_conquest = {
+	potential = {
+		current_age = age_of_feudalism
+		tag = TIM
+	}
+	trigger = {}
+	reinforce_cost_modifier = -0.50
+	reinforce_speed = 0.50
+}
